@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
 
 *{
@@ -10,7 +10,7 @@
 .logo{
     font-size: 55px;
     line-height: 80px;
-    font-family: 'Palette Mosaic', cursive;
+    font-family: 'Indie Flower', cursive;
 }
 .sp1{
     color: tomato;
@@ -127,6 +127,8 @@ a.active,a:hover{
             box-shadow: 2px 2px 3px black;
         }
         .two p{
-            font-size: 9px;
+            padding-top: 10px;
+            font-size: 15px;
+            font-family: 'Yanone Kaffeesatz', sans-serif;
         }
 }
